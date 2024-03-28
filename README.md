@@ -1,5 +1,5 @@
 # `bullet` : Beautiful Python Prompts Made Simple
-## Now with Windows Support.✨ Thanks @pjfarleyiii (https://github.com/bchao1/bullet/pull/79)
+## Now with Windows Support.✨ Thanks [@pjfarleyiii](https://github.com/pjfarleyiii) (https://github.com/bchao1/bullet/pull/79)
 <p align=center>
 <br><br><br>
 <img src="./assets/icon.png" width="400">
