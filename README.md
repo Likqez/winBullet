@@ -1,4 +1,5 @@
 # `bullet` : Beautiful Python Prompts Made Simple
+## Now with Windows Support.✨ Thanks @pjfarleyiii (https://github.com/bchao1/bullet/pull/79)
 <p align=center>
 <br><br><br>
 <img src="./assets/icon.png" width="400">
@@ -19,10 +20,6 @@
 </p>
 
 > See the sample code for the above demo in `./examples/prompt.py`.
-
-## ✨News: `bullet==2.2.0` is up (Finally!)
-
-You can now download the newest version of bullet on PyPI!
 
 ## Bullet-lists and checkboxes
 > 🎨 Robust support for user-defined styles.
@@ -80,11 +77,11 @@ You can now download the newest version of bullet on PyPI!
 ## Setting up `bullet`
 > From PyPI
 ```shell
-$ pip install bullet
+$ pip install git+https://github.com/Likqez/winBullet@master
 ```
 > Build from Source
 ```shell
-$ git clone https://github.com/bchao1/bullet.git
+$ git clone https://github.com/Likqez/winBullet.git
 $ cd bullet
 $ pip install .
 ```
