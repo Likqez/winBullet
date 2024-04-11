@@ -1,4 +1,4 @@
-# `bullet` : Beautiful Python Prompts Made Simple
+# `winBullet` : Beautiful Python Prompts Made Simple
 ## Now with Windows Support.✨ Thanks [@pjfarleyiii](https://github.com/pjfarleyiii) (https://github.com/bchao1/bullet/pull/79)
 <p align=center>
 <br><br><br>
@@ -77,12 +77,12 @@
 ## Setting up `bullet`
 > From PyPI
 ```shell
-$ pip install git+https://github.com/Likqez/winBullet@master
+$ pip install winBullet
 ```
 > Build from Source
 ```shell
 $ git clone https://github.com/Likqez/winBullet.git
-$ cd bullet
+$ cd winBullet
 $ pip install .
 ```
 ## Documentation
