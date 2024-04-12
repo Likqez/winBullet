@@ -82,10 +82,6 @@ class myInput:
                  i == HOME_KEY       or \
                  i == LINE_END_KEY   or \
                  i == END_KEY        or \
-                 i == ARROW_UP_KEY   or \
-                 i == ARROW_DOWN_KEY or \
-                 i == PG_UP_KEY      or \
-                 i == PG_DOWN_KEY    or \
                  i == TAB_KEY        or \
                  i == UNDEFINED_KEY:
                 return
